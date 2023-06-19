@@ -1,0 +1,15 @@
+.texto-menor{
+    font-size: 13px;
+}
+.divs-facilidades{
+    width: 325px;
+}
+.cor-neon{
+    color: #DAFF01;
+}
+.cor-lilas{
+    background:#9353FF ;
+}
+.cor-lilas:hover{
+    background:#7936ecf3 ;
+}
